@@ -1,3 +1,6 @@
+# https://codenotu.blogspot.com/p/odev-1.html
+# kod ile ilgili blog postum
+
 soru = input("Tam sayılarla işlem için 1, Ondalıklı sayılarla işlem için 2: ")
 if soru == "1":
     sayi1 = int(input("Birinci sayıyı giriniz: "))
